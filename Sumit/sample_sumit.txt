@@ -1,3 +1,4 @@
 show databases;
 create database Test1;
 show databases;
+use database Test1;

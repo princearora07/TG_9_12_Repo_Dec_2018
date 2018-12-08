@@ -1,1 +1,1 @@
- this contains all pig scripts1
+this contains all shell scripts
